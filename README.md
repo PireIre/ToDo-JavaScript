@@ -1,6 +1,6 @@
 # ToDo-JavaScript/CSS/HTML
 
-This To-Do list was developed following a Udemy Course guide
+This To-Do list was developed following a Udemy Course guide. Application was developed using jQuery (JS Library)
 
 # Visuals
 
